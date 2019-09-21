@@ -1,0 +1,5 @@
+matchBlocks=cracked_stone_bricks
+method=random
+tiles=0-5
+symmetry=none
+weight= 5 3 5 3 5 5
